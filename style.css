@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Wendy+One&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+}
+.active{
+    color: #6f3d01 !important; 
+}
+
+.color_dark{
+    color: #3F3F3F;
+}
+.color_brown_light{
+    color: #ce7304;
+}
+.color_orange{
+    color: #FF8F00;
+}
+.bg_color_orange{
+    background-color: #FFB74D;
+}
+.bg_color_light{
+    background-color: #F9F9F9;
+}
+.bg_color_white{
+    background-color: #FFFFFF;
+}
+.max_width_250{
+    max-width: 250px;
+}
+.max_width_400{
+    max-width: 400px;
+}
+.font_alt{
+    font-family: "Wendy One", sans-serif;
+}
+.width_100{
+    width: 100px;
+}
